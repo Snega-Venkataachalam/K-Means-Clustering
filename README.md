@@ -1,6 +1,7 @@
 ## Introduction
 
 [K-Means Clustering](https://wikipedia.org/wiki/K-means_clustering) is a method derived from the domain of signal processing. It is used to divide and partition groups of data into 'k' clusters using a series of observations. Each observation works to group a given datapoint closest to its nearest 'mean', or the center point of a cluster.
+
 The K-Means clustering process [executes in a three-step process](https://scikit-learn.org/stable/modules/clustering.html#k-means):
 
 1. The algorithm selects k-number of center points by sampling from the dataset. After this, it loops:
